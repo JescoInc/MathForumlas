@@ -1,0 +1,5 @@
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\Test Projects\Forumula.Math\Formula.BasicMath\bin\Debug\Formula.BasicMath.dll
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\Test Projects\Forumula.Math\Formula.BasicMath\bin\Debug\Formula.BasicMath.pdb
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\Test Projects\Forumula.Math\Formula.BasicMath\obj\Debug\Formula.BasicMath.csprojResolveAssemblyReference.cache
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\Test Projects\Forumula.Math\Formula.BasicMath\obj\Debug\Formula.BasicMath.dll
+C:\Users\kohou\Documents\Visual Studio 2015\Projects\Test Projects\Forumula.Math\Formula.BasicMath\obj\Debug\Formula.BasicMath.pdb
