@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Area.cs" />
     <Compile Include="CentralValue.cs" />
+    <Compile Include="ComputerScience.cs" />
     <Compile Include="InterestingPhysics.cs" />
     <Compile Include="Perimeter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

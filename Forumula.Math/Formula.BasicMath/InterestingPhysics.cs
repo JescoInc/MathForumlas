@@ -30,5 +30,18 @@ namespace Formula.BasicMath
 
             return results;
         }
+
+        public static double GoldenRatio()
+        {
+            // because, why not? Right
+            double goldenRatio = 1 + Math.Sqrt(5) / 2;
+            return goldenRatio;
+        }
+
+        public static double LunarParallax(double observerbase, double angle)
+        {
+            double distance = observerbase / Math.Tan(angle);
+            return distance;
+        }
     }
 }
